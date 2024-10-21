@@ -3,7 +3,7 @@ import csv
 import os
 
 #specify the path where csv to be saved 
-path = r"C:/Users/lucian/Desktop/python/Beginner(7-14days)/daySix/date.csv"
+path = r"C:/Users/lucian/Desktop/python/Beginner(7-14days)/6_daySix/date.csv"
 
 #ensure the dirctory exist before write the file
 os.makedirs(os.path.dirname(path), exist_ok=True)
