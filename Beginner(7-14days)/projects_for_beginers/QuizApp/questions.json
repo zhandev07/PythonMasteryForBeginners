@@ -1,0 +1,550 @@
+[
+    {
+        "category": "Python",
+        "question": "Which of the following is a Python keyword?",
+        "type": "multiple_choice",
+        "choices": [
+            "elif",
+            "ifelse",
+            "loop",
+            "endif"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output of print(2 * 3)?",
+        "type": "multiple_choice",
+        "choices": [
+            "5",
+            "6",
+            "23",
+            "None"
+        ],
+        "correct": 1,
+        "difficulty": "easy"
+    },
+    {
+        "category": "Python",
+        "question": "Which function is used to get user input in Python?",
+        "type": "multiple_choice",
+        "choices": [
+            "print()",
+            "input()",
+            "get()",
+            "read()"
+        ],
+        "correct": 1,
+        "difficulty": "easy"
+    },
+    {
+        "category": "Python",
+        "question": "What is the file extension for Python files?",
+        "type": "multiple_choice",
+        "choices": [
+            ".pyth",
+            ".pt",
+            ".python",
+            ".py"
+        ],
+        "correct": 3,
+        "difficulty": "easy"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is used to store a sequence of characters?",
+        "type": "multiple_choice",
+        "choices": [
+            "int",
+            "list",
+            "str",
+            "bool"
+        ],
+        "correct": 2,
+        "difficulty": "easy"
+    },
+    {
+        "category": "Python",
+        "question": "How do you start a comment in Python?",
+        "type": "multiple_choice",
+        "choices": [
+            "/*",
+            "<!--",
+            "#",
+            "//"
+        ],
+        "correct": 2,
+        "difficulty": "medium"
+    },
+    {
+        "category": "Python",
+        "question": "Which of the following is a mutable data type in Python?",
+        "type": "multiple_choice",
+        "choices": [
+            "tuple",
+            "list",
+            "str",
+            "int"
+        ],
+        "correct": 1,
+        "difficulty": "medium"
+    },
+    {
+        "category": "Python",
+        "question": "What will print(bool([])) return in Python?",
+        "type": "multiple_choice",
+        "choices": [
+            "include module_name",
+            "require module_name",
+            "import module_name",
+            "define module_name"
+        ],
+        "correct": 2,
+        "difficulty": "medium"
+    },
+    {
+        "category": "Python",
+        "question": "Which of the following methods is used to remove the last element from a list?",
+        "type": "multiple_choice",
+        "choices": [
+            "pop()",
+            "remove()",
+            "del()",
+            "trim()"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output of 2 ** 3 ** 2 in Python?",
+        "type": "multiple_choice",
+        "choices": [
+            "8",
+            "64",
+            "512",
+            "256"
+        ],
+        "correct": 2,
+        "difficulty": "hard"
+    },
+    {
+        "category": "Python",
+        "question": "Which of the following data types does not support indexing in Python?",
+        "type": "multiple_choice",
+        "choices": [
+            "tuple",
+            "dict",
+            "set",
+            "str"
+        ],
+        "correct": 2,
+        "difficulty": "hard"
+    },
+    {
+        "category": "Python",
+        "question": "What is the output of print(type(lambda x: x + 1))?",
+        "type": "multiple_choice",
+        "choices": [
+            "function",
+            "lambda",
+            "class",
+            "Error"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+    },
+    {
+        "category": "Python",
+        "question": "In Python, a list can contain elements of different data types",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Python",
+        "question": "In Python, single quotes and double quotes can be used interchangeably for strings.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Python",
+        "question": "The len() function returns the length of a list or string in Python.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Python",
+        "question": "In Python, print() automatically adds a newline character after each output.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Python",
+        "question": "Python is a case-sensitive programming language",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Python",
+        "question": "n Python, range(5) will generate a sequence from 1 to 5.",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Python",
+        "question": "Python does not support multiple inheritance.",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Python",
+        "question": "The pass keyword is used to skip code that won't execute.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Python",
+        "question": "In Python, strings are immutable.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Python",
+        "question": "The expression 5 == '5' evaluates to True in Python.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Python",
+        "question": "n Python, the += operator creates a new object when modifying immutable types.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Python",
+        "question": "Decorators in Python are a form of metaprogramming.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Python",
+        "question": "Python allows function overloading",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Python",
+        "question": "Python's memory management is handled by the garbage collector.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Python",
+        "question": "A generator in Python uses yield to return multiple values lazily.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "What is the purpose of a firewall?",
+        "type": "multiple_choice",
+        "choices": [
+            "To detect malware",
+            "To filter network traffic",
+            "To block all incoming connections",
+            "To store security certificates"
+        ],
+        "correct": 1,
+        "difficulty": "easy"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Which of the following is a strong password?",
+        "type": "multiple_choice",
+        "choices": [
+            "password123",
+            "admin",
+            "&u3#bD2@",
+            "guest"
+        ],
+        "correct": 2,
+        "difficulty": "easy"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Which of the following is an example of two-factor authentication?",
+        "type": "multiple_choice",
+        "choices": [
+            "Username and password",
+            "Password and fingerprint",
+            "Email and phone number",
+            "IP address and password"
+        ],
+        "correct": 1,
+        "difficulty": "easy"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "What is phishing?",
+        "type": "multiple_choice",
+        "choices": [
+            "A malware that infects a system",
+            "An attack that captures sensitive information by pretending to be a trusted entity",
+            "A type of encryption",
+            "A method to prevent hacking"
+        ],
+        "correct": 1,
+        "difficulty": "easy"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Which protocol secures HTTP traffic by encrypting it?",
+        "type": "multiple_choice",
+        "choices": [
+            "SSL/TLS",
+            "FTP",
+            "SMTP",
+            "SSH"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "What is the function of an Intrusion Detection System (IDS)?",
+        "type": "multiple_choice",
+        "choices": [
+            "To prevent unauthorized access",
+            "To monitor network traffic for suspicious activities",
+            "To install antivirus software",
+            "o configure firewalls"
+        ],
+        "correct": 1,
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "What does the acronym VPN stand for?",
+        "type": "multiple_choice",
+        "choices": [
+            "Virtual Private Network",
+            "Virtual Public Network",
+            "Visual Private Network",
+            "Visible Private Network"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Which of the following is a common social engineering attack?",
+        "type": "multiple_choice",
+        "choices": [
+            "Man-in-the-middle attack",
+            "Phishing",
+            "DDoS",
+            "Buffer Overflow"
+        ],
+        "correct": 3,
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "What is the primary purpose of encryption?",
+        "type": "multiple_choice",
+        "choices": [
+            "To backup data",
+            "To hide data",
+            "To ensure data confidentiality",
+            "To speed up data transfer"
+        ],
+        "correct": 2,
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "What is the purpose of a honeypot in cybersecurity?",
+        "type": "multiple_choice",
+        "choices": [
+            "To protect against attacks",
+            "To detect and analyze attacks",
+            "To encrypt sensitive data",
+            "To prevent unauthorized access"
+        ],
+        "correct": 1,
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Which attack type involves intercepting communication between two parties?",
+        "type": "multiple_choice",
+        "choices": [
+            "Man-in-the-middle attack",
+            "DDoS",
+            "SQL Injection",
+            "Phishing"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Which of the following is an example of a ransomware attack?",
+        "type": "multiple_choice",
+        "choices": [
+            "Encrypting files and demanding payment for the decryption key",
+            "Hijacking a session between two communicating parties",
+            "Injecting malicious code into a website's database",
+            "Spamming a network with fake requests to exhaust resources"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Which of the following methods is used to break encryption by trying all possible keys?",
+        "type": "multiple_choice",
+        "choices": [
+            "Phishing",
+            "Man-in-the-middle attack",
+            "Brute force attack",
+            "SQL Injection"
+        ],
+        "correct": 2,
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "What type of attack involves overwhelming a system with a flood of traffic?",
+        "type": "multiple_choice",
+        "choices": [
+            "DDoS (Distributed Denial of Service)",
+            "XSS (Cross-site Scripting)",
+            "SQL Injection",
+            "Buffer Overflow"
+        ],
+        "correct": 1,
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "A strong password should be at least 8 characters long.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Phishing attacks can occur through email, phone calls, or text messages.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "A VPN is used to create a secure connection over a public network",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Antivirus software alone is enough to protect against all cyber threats.",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "An encrypted message can be easily read without the decryption key.",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "easy"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "SQL Injection is a form of social engineering attack.",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Firewalls can monitor both incoming and outgoing network traffic",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "The CIA Triad stands for Confidentiality, Integrity, and Availability.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "DDoS attacks only affect large businesses.",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "SSL certificates are used to encrypt data transferred between a web server and a browser.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "medium"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Public-key cryptography uses the same key for both encryption and decryption.",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "A zero-day vulnerability is a known security flaw that has been patched.",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "A brute-force attack is a highly sophisticated, untraceable method of attack.",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "A honeypot is used to deceive attackers and collect data on hacking attempts.",
+        "type": "true_false",
+        "correct": "T",
+        "difficulty": "hard"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "Two-factor authentication guarantees that an account is completely secure.",
+        "type": "true_false",
+        "correct": "F",
+        "difficulty": "hard"
+    }
+]
