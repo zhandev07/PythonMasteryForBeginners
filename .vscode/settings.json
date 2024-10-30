@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Intermediate(30-45 days)/2_PartTwo/Modules/1.1_"
+    ]
+}
